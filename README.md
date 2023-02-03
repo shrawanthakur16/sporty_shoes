@@ -4,7 +4,6 @@
 
 | Java | 1.8 
 | Spring Boot | 2.2.10 
-| Lombok  | --- 
 | Swagger-ui | 2.7.0 
 | H2 | ---
 | JPA | ---
